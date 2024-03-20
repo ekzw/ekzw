@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ekzw
 - 👀 I’m interested in Android Studio
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on anyone
+- 🌱 I’m currently learning Kotlin and Android SDK
+- 💞️ I’m looking to collaborate on anyone who wants
 - 📫 How to reach me ekzw
 
 <!---
